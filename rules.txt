@@ -1,28 +1,111 @@
-127.0.0.1 api-flow.flyme.cn
-127.0.0.1 bro.flyme.cn
-127.0.0.1 es-res.flyme.cn
-127.0.0.1 madx.flyme.cn
-127.0.0.1 ssp-res.flyme.cn
-127.0.0.1 t-e.flyme.cn
-127.0.0.1 t-flow.flyme.cn
-127.0.0.1 aider-res.meizu.com
-127.0.0.1 api-flow.meizu.com
-127.0.0.1 api-push.meizu.com
-127.0.0.1 cal.meizu.com
-127.0.0.1 ebook-res.meizu.com
-127.0.0.1 ebook.res.meizu.com
-127.0.0.1 game-res.meizu.com
-127.0.0.1 game.res.meizu.com
-127.0.0.1 infocenter.meizu.com
-127.0.0.1 open-iflow.meizu.com
-127.0.0.1 openapi-news.meizu.com
-127.0.0.1 push.res.meizu.com
-127.0.0.1 reader.meizu.com
-127.0.0.1 reader.res.meizu.com
-127.0.0.1 safe.res.meizu.com
-127.0.0.1 tongji-res1.meizu.com
-127.0.0.1 tongji.meizu.com
-127.0.0.1 umid.orion.meizu.com
-127.0.0.1 upush.res.meizu.com
-127.0.0.1 uxip.meizu.com
-127.0.0.1 mz-api.smzdm.com
+0.0.0.0 api-flow.flyme.cn
+:: api-flow.flyme.cn
+||api-flow.flyme.cn^
+
+0.0.0.0 bro.flyme.cn
+:: bro.flyme.cn
+||bro.flyme.cn^
+
+0.0.0.0 es-res.flyme.cn
+:: es-res.flyme.cn
+||es-res.flyme.cn^
+
+0.0.0.0 madx.flyme.cn
+:: madx.flyme.cn
+||madx.flyme.cn^
+
+0.0.0.0 ssp-res.flyme.cn
+:: ssp-res.flyme.cn
+||ssp-res.flyme.cn^
+
+0.0.0.0 t-e.flyme.cn
+:: t-e.flyme.cn
+||t-e.flyme.cn^
+
+0.0.0.0 t-flow.flyme.cn
+:: t-flow.flyme.cn
+||t-flow.flyme.cn^
+
+0.0.0.0 aider-res.meizu.com
+:: aider-res.meizu.com
+||aider-res.meizu.com^
+
+0.0.0.0 api-flow.meizu.com
+:: api-flow.meizu.com
+||api-flow.meizu.com^
+
+0.0.0.0 api-push.meizu.com
+:: api-push.meizu.com
+||api-push.meizu.com^
+
+0.0.0.0 cal.meizu.com
+:: cal.meizu.com
+||cal.meizu.com^
+
+0.0.0.0 ebook-res.meizu.com
+:: ebook-res.meizu.com
+||ebook-res.meizu.com^
+
+0.0.0.0 ebook.res.meizu.com
+:: ebook.res.meizu.com
+||ebook.res.meizu.com^
+
+0.0.0.0 game-res.meizu.com
+:: game-res.meizu.com
+||game-res.meizu.com^
+
+0.0.0.0 game.res.meizu.com
+:: game.res.meizu.com
+||game.res.meizu.com^
+
+0.0.0.0 infocenter.meizu.com
+:: infocenter.meizu.com
+||infocenter.meizu.com^
+
+0.0.0.0 open-iflow.meizu.com
+:: open-iflow.meizu.com
+||open-iflow.meizu.com^
+
+0.0.0.0 openapi-news.meizu.com
+:: openapi-news.meizu.com
+||openapi-news.meizu.com^
+
+0.0.0.0 push.res.meizu.com
+:: push.res.meizu.com
+||push.res.meizu.com^
+
+0.0.0.0 reader.meizu.com
+:: reader.meizu.com
+||reader.meizu.com^
+
+0.0.0.0 reader.res.meizu.com
+:: reader.res.meizu.com
+||reader.res.meizu.com^
+
+0.0.0.0 safe.res.meizu.com
+:: safe.res.meizu.com
+||safe.res.meizu.com^
+
+0.0.0.0 tongji-res1.meizu.com
+:: tongji-res1.meizu.com
+||tongji-res1.meizu.com^
+
+0.0.0.0 tongji.meizu.com
+:: tongji.meizu.com
+||tongji.meizu.com^
+
+0.0.0.0 umid.orion.meizu.com
+:: umid.orion.meizu.com
+||umid.orion.meizu.com^
+
+0.0.0.0 upush.res.meizu.com
+:: upush.res.meizu.com
+||upush.res.meizu.com^
+
+0.0.0.0 uxip.meizu.com
+:: uxip.meizu.com
+||uxip.meizu.com^
+
+0.0.0.0 mz-api.smzdm.com
+:: mz-api.smzdm.com
+||mz-api.smzdm.com^
